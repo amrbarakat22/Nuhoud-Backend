@@ -96,3 +96,13 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+---
+
+## Original Repository
+
+This repository was copied to **amrbarakat22** while preserving the original Git history.
+
+Original repository:
+
+https://github.com/Nuhoud/Nuhoud-Backend
